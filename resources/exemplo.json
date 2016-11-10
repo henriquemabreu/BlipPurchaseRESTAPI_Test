@@ -1,0 +1,16 @@
+{
+	"purchases": 
+		[
+			{
+				"id":92,
+				"productType":"garrafas",
+				"expires":"2016-12-23T18:25:43.511Z",
+				"details":
+					[
+						{"id":34, "description":"cor verde, tamanho 37", "quantity":1, "value":333.0},
+						{"id":15,"description":"cor azul, tamanho 41","quantity":10,"value":333.0},
+						{"id":16,"description":"cor azul, tamanho 39","quantity":100,"value":333.0}
+					]
+			}
+		]
+}
